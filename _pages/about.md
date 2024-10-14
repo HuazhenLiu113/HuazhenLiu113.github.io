@@ -165,7 +165,7 @@ J. Bao, X. Zhang, S. Xiang, <span style="color: #9400D3;">**H. Liu**</span>, M. 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Surgery 2024</div><img src='images/HEADSEG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Development and validation of a novel deep ensemble learning-based fully automatic multi-structure segmentation framework for craniomaxillofacial surgery]([https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#deep-learningbased-facial-and-skeletal-transformations-for-surgical-planning](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#development-and-validation-of-a-novel-deep-ensemble-learning-based-fully-automatic-multi-structure-segmentation-framework-for-craniomaxillofacial-surgery))
+[Development and validation of a novel deep ensemble learning-based fully automatic multi-structure segmentation framework for craniomaxillofacial surgery](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#development-and-validation-of-a-novel-deep-ensemble-learning-based-fully-automatic-multi-structure-segmentation-framework-for-craniomaxillofacial-surgery)
 
 J. Bao, X. Zhang, S. Xiang, <span style="color: #9400D3;">**H. Liu**</span>, M. Cheng, Y. Yang, X. Huang, W. Xiang, W. Cui, H.C. Lai, S. Huang*, Y. Wang*, D. Qian*, and H. Yu*
 
