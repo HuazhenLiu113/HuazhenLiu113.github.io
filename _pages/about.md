@@ -59,7 +59,7 @@ Li Kang, <span style="color: #9400D3;">**Huazhen Liu**</span>, Yijia Zhang, Jiam
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters</div><img src='images/MIPS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters 2023</div><img src='images/DNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [High frame-rate reconfigurable diffractive neural network based on superpixels](Abstract.md#high-frame-rate-reconfigurable-diffractive-neural-network-based-on-superpixels)
@@ -71,9 +71,17 @@ Yuan Qu, Hengyu Lian, Chunxu Ding, <span style="color: #9400D3;">**Huazhen Liu**
 </div>
 </div>
 
-[Large field of view Shack-Hartmann wavefront sensor based on high-density lens transfer function retrieval](peer review)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters 2024</div><img src='images/SHSENSOR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Large field of view Shack-Hartmann wavefront sensor based on high-density lens transfer function retrieval](Abstract.md#large-field-of-view-shack-hartmann-wavefront-sensor-based-on-high-density-lens-transfer-function-retrieval)
 
 Siqi Wu, Qiaozhi He, Jichong Zhou, Shuxin Liu, <span style="color: #9400D3;">**Huazhen Liu**</span>, Jiamiao Yang*
+
+*Optics Letters*, in Peer Review
+
+</div>
+</div>
 
 [PreCM: The Padding-based Rotation Equivariant Convolution Mode for Semantic Segmentation](peer review)
 
