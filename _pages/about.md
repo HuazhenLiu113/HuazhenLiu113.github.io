@@ -111,11 +111,11 @@ Xinyu Xu, <span style="color: #9400D3;">**Huazhen Liu**</span>, Tao Zhang*, Feim
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Geoscience and Remote Sensing Letters 2023</div><img src='images/INFORMATION.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[An Information-Expanding Network for Water Body Extraction Based on U-Net](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#rotation-perturbation-robustness-in-point-cloud-analysis-a-perspective-of-manifold-distillation)
+[An Information-Expanding Network for Water Body Extraction Based on U-Net](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#an-information-expanding-network-for-water-body-extraction-based-on-u-net-1)
 
 Xinyu Xu, Tao Zhang，<span style="color: #9400D3;">**Huazhen Liu**</span>，Weiwei Guo, Zenghui Zhang
 
-*IEEE Geoscience and Remote Sensing Letters*, Published [DOI]([https://doi.org/10.1109/igarss52108.2023.10282863](https://doi.org/10.1109/lgrs.2024.3371485))
+*IEEE Geoscience and Remote Sensing Letters*, Published [DOI](https://doi.org/10.1109/lgrs.2024.3371485)
 
 </div>
 </div>
