@@ -64,10 +64,11 @@ Li Kang, <span style="color: #9400D3;">**Huazhen Liu**</span>, Yijia Zhang, Jiam
 
 Yuan Qu, Hengyu Lian, Chunxu Ding, <span style="color: #9400D3;">**Huazhen Liu**</span>, Linxian Liu, Jiamiao Yang*
 
-*Optics Letters*, Published [DOI](https://doi.org/10.1364/ol.498712)
 - Diffractive Neural Network
 - Digit classification
 - Real-time optical information processing
+
+*Optics Letters*, Published [DOI](https://doi.org/10.1364/ol.498712)
 
 </div>
 </div>
@@ -79,10 +80,11 @@ Yuan Qu, Hengyu Lian, Chunxu Ding, <span style="color: #9400D3;">**Huazhen Liu**
 
 Siqi Wu, Qiaozhi He, Jichong Zhou, Shuxin Liu, <span style="color: #9400D3;">**Huazhen Liu**</span>, Jiamiao Yang*
 
-*Optics Letters*, in Peer Review
 - Shack-Hartmann Wavefront Sensor
 - Lens Distortion Isolation
 - Field-of-view Expansion 
+
+*Optics Letters*, in Peer Review
 
 </div>
 </div>
@@ -94,10 +96,10 @@ Siqi Wu, Qiaozhi He, Jichong Zhou, Shuxin Liu, <span style="color: #9400D3;">**H
 
 Xinyu Xu, <span style="color: #9400D3;">**Huazhen Liu**</span>, Tao Zhang*, Huilin Xiong, Wenxian Yu
 
-*IEEE Transactions on Image Processing*, in Peer Review
-
 - Rotation Equivariance in Neural Network
 - Group Theory for Describing Neural Network
+
+*IEEE Transactions on Image Processing*, in Peer Review
 
 </div>
 </div>
@@ -110,10 +112,10 @@ Xinyu Xu, <span style="color: #9400D3;">**Huazhen Liu**</span>, Tao Zhang*, Huil
 
 Xinyu Xu, <span style="color: #9400D3;">**Huazhen Liu**</span>, Tao Zhang*, Feiming Wei, Huilin Xiong, Wenxian Yu
 
-*IEEE Transactions on Circuits and Systems for Video Technology*, in Peer Review
-
 - Online Distillation 
 - Anti-vibration
+
+*IEEE Transactions on Circuits and Systems for Video Technology*, in Peer Review
 
 </div>
 </div>
@@ -125,10 +127,11 @@ Xinyu Xu, <span style="color: #9400D3;">**Huazhen Liu**</span>, Tao Zhang*, Feim
 
 Xinyu Xu, Tao Zhang，<span style="color: #9400D3;">**Huazhen Liu**</span>，Weiwei Guo, Zenghui Zhang
 
-*IEEE Geoscience and Remote Sensing Letters*, Published [DOI](https://doi.org/10.1109/lgrs.2024.3371485)
-
 - Water Body Extraction
 - Ensemble BatchNorm
+
+*IEEE Geoscience and Remote Sensing Letters*, Published [DOI](https://doi.org/10.1109/lgrs.2024.3371485)
+
 </div>
 </div>
 
