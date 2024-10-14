@@ -42,17 +42,24 @@ and VSP for orthognathic surgery.
 
 # Development and validation of a novel deep ensemble learning-based fully automatic multi-structure segmentation framework for craniomaxillofacial surgery
 **Background**
+
 Efficient and accurate segmentation of craniomaxillofacial (CMF) structures and individual teeth is a prerequisite and basis for advancing computer-assisted CMF
 surgery. This study aimed to comprehensively benchmark the performance of three 3D U-Net-based deep learning models and develop a novel deep ensemble learningbased
 fully automatic multi-structure segmentation model named CMF-ELSeg.
+
 **Methods**
+
 A total of ninety CMF CT scans were collected retrospectively from patients diagnosed with skeletal malocclusion during the process of combined orthodontic and
 orthognathic surgical treatment. Ground truth segmentations were manually labeled by experienced experts. Fully automatic AI-based multi-structure segmentation algorithms were developed and validated. CMF-ELSeg was built on a coarse-to-fine cascaded segmentation network architecture and utilized an ensemble learning approach to combine the strengths of V-Net, nnU-Net, and 3D UX-Net. Model performance in segmentizing CMF structures and individual teeth was evaluated by comparing ground truth segmentations with model predictions using multiple metrics, including Dice score, F1-Score, and Intersection over Union (IoU).
+
 **Results**
+
 In the coarse segmentation task for the upper skull, mandible, cervical vertebra and pharyngeal cavity, both 3D UX-Net and nnU-Net achieved average dice scores
 exceeding 0.96, average F1-score exceeding 0.98, and average IoU exceeding 0.93. For the fine segmentation and classification of individual teeth, the cascaded
 segmentation network based on 3D UX-Net demonstrated optimal performance across all evaluation metrics, maintaining high accuracy and stability. Compared to individual models, CMF-ELSeg showed a 3%-5% improvement in Dice coefficients for facial soft tissue, upper skull, mandible bone, cervical vertebra, and pharyngeal cavity segmentation. Meanwhile, CMF-ELSeg consistently achieved high accuracy for individual teeth segmentation, with Dice coefficients exceeding 0.94 for most teeth.
+
 **Conclusion**
+
 CMF-ELSeg achieved high-precision segmentation of CMF structures and individual teeth by leveraging the diversity of multiple models, offering a practical tool for clinical practice and enhancing the efficacy of patient-specific treatment planning for CMF surgery.
 
 # An Information-Expanding Network for Water Body Extraction Based on U-Net
