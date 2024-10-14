@@ -17,3 +17,22 @@ Semantic segmentation is an important branch of image processing and computer vi
 
 # Rotation Perturbation Robustness in Point Cloud Analysis: A Perspective of Manifold Distillation
 Point cloud is often regarded as a discrete sampling of Riemannian manifold and plays a pivotal role in the 3D image interpretation. Particularly, rotation perturbation, an unexpected small change in rotation caused by various factors (like equipment offset, system instability, measurement errors and so on), can easily lead to the inferior results in point cloud learning tasks. However, classical point cloud learning methods are sensitive to rotation perturbation, and the existing networks with rotation robustness also have much room for improvements in terms of performance and noise tolerance. Given these, this paper remodels the point cloud from the perspective of manifold as well as designs a manifold distillation method to achieve the robustness of rotation perturbation without any coordinate transformation. In brief, during the training phase, we introduce a teacher network to learn the rotation robustness information and transfer this information to the student network through online distillation. In the inference phase, the student network directly utilizes the original 3D coordinate information to achieve the robustness of rotation perturbation. Experiments carried out on four different datasets verify the effectiveness of our method. Averagely, on the Modelnet40 and ScanobjectNN classification datasets with random rotation perturbations, our classification accuracy has respectively improved by 4.92% and 4.41%, compared to popular rotation-robust networks; on the ShapeNet and S3DIS segmentation datasets, compared to the rotation-robust networks, the improvements of mIoU are 7.36% and 4.82%, respectively. Besides, from the experimental results, the proposed algorithm also shows excellent performance in resisting noise and outliers. 
+
+# Deep Learning–Based Facial and Skeletal Transformations for Surgical Planning
+The increasing application of virtual surgical planning (VSP) in orthognathic surgery implies a critical need for accurate prediction of facial
+and skeletal shapes. The craniofacial relationship in patients with dentofacial deformities is still not understood, and transformations
+between facial and skeletal shapes remain a challenging task due to intricate anatomical structures and nonlinear relationships between
+the facial soft tissue and bones. In this study, a novel bidirectional 3-dimensional (3D) deep learning framework, named P2P-ConvGC,
+was developed and validated based on a large-scale data set for accurate subject-specific transformations between facial and skeletal
+shapes. Specifically, the 2-stage point-sampling strategy was used to generate multiple nonoverlapping point subsets to represent highresolution
+facial and skeletal shapes. Facial and skeletal point subsets were separately input into the prediction system to predict
+the corresponding skeletal and facial point subsets via the skeletal prediction subnetwork and facial prediction subnetwork. For
+quantitative evaluation, the accuracy was calculated with shape errors and landmark errors between the predicted skeleton or face with
+corresponding ground truths. The shape error was calculated by comparing the predicted point sets with the ground truths, with P2PConvGC
+outperforming existing state-of-the-art algorithms including P2P-Net, P2P-ASNL, and P2P-Conv. The total landmark errors
+(Euclidean distances of craniomaxillofacial landmarks) of P2P-ConvGC in the upper skull, mandible, and facial soft tissues were 1.964 ±
+0.904 mm, 2.398 ± 1.174 mm, and 2.226 ± 0.774 mm, respectively. Furthermore, the clinical feasibility of the bidirectional model was
+validated using a clinical cohort. The result demonstrated its prediction ability with average surface deviation errors of 0.895 ± 0.175
+mm for facial prediction and 0.906 ± 0.082 mm for skeletal prediction. To conclude, our proposed model achieved good performance
+on the subject-specific prediction of facial and skeletal shapes and showed clinical application potential in postoperative facial prediction
+and VSP for orthognathic surgery.
