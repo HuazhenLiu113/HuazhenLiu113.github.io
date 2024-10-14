@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Huazhen Liu"
-  avatar           : "images/me.png"
-  bio              : "Huazhenliu@sjtu.edu.cn""liuliouville@gmail.com"
+  avatar           : "images/me1.png"
+  bio              : "huazhenliu@sjtu.edu.cn""liuliouville@gmail.com"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "Huazhenliu@sjtu.edu.cn"
+  email            : "huazhenliu@sjtu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
