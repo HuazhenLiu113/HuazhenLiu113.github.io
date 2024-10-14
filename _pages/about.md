@@ -17,10 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a third year undergraduate student from School of Electronic Information and Electrical Engineering([https://www.seiee.sjtu.edu.cn
-]), Shanghai Jiao Tong University([https://www.sjtu.edu.cn/]), advised by Jiamiao Yang([https://juopt.sjtu.edu.cn/index.htm]). My research interest includes computer vision,, machine learning, optical imaging and measurment.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I'm a third year Master student at Shanghai Jiao Tong University, advised by associate professor <a href="https://juopt.sjtu.edu.cn/index.htm"><span style="color: #9400D3;"></span></a>. I'm pursuing my Master degree majoring in School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University at <a href="https://www.sjtu.edu.cn"><span style="color: #9400D3;">Shanghai Jiao Tong University(SJTU)</span></a>, where I worked with professor <a href="https://ssse.sjtu.edu.cn/Data/Info/413"><span style="color: #9400D3;">Yuan Qu</span></a> and professor <a href="https://ssse.sjtu.edu.cn/Data/Info/474"><span style="color: #9400D3;">Jiamiao Yang</span></a> in <a href="https://juopt.sjtu.edu.cn/"><span style="color: #9400D3;">IPSI</span></a>. Before that, I've obtained the Bachelor's degree in Electronic Engineering from <a href="https://www.tju.edu.cn/"><span style="color: #9400D3;">Tianjin University</span></a>.
+My research interest includes computer vision,, machine learning, optical imaging and measurment.
 
 
 # 🔥 News
