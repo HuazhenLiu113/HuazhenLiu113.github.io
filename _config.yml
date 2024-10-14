@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Huazhen Liu"
 description              : "Carpe Diem"
-repository               : "Lianhy000/Lianhy000.github.io"
+repository               : "HuazhenLiu113/HuazhenLiu113.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hengyu Lian"
-  avatar           : "images/LHY_pic.png"
-  bio              : "PhD Student @ UNC CS"
-  location         : "North Carolina, USA"
+  avatar           : "images/me1.png"
+  bio              : "huazhenliu@sjtu.edu.cn""liuliouville@gmail.com"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "lianhy0@cs.unc.edu"
+  email            : "huazhenliu@sjtu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
