@@ -48,11 +48,11 @@ My research interest includes computer vision, medical imaging, optical imaging 
 
 Li Kang, <span style="color: #9400D3;">**Huazhen Liu**</span>, Yijia Zhang, Jiamiao Yang*, Hsiang-Chen Chui*
 
-*Optics Letters*, in Peer Review
-
 - Single Projection
 - Structured Light Imaging
 - Eliminating Harmonic Influence
+
+*Optics Letters*, in Peer Review
 
 </div>
 </div>
