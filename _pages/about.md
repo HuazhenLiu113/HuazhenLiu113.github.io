@@ -34,27 +34,27 @@ My research interest includes computer vision, medical imaging, optical imaging 
   
 [High-Accuracy Phase Unwrapping Based on Binarized Wrap Count](peer review)
 
-<span style="color: #9400D3;">**Huazhenliu**</span></a>, Rongjun Shao, Yuan Qu, Chunxu Ding, Hengyu Lian, Siqi Wu, Jiamiao Yang
+<span style="color: #9400D3;">**Huazhenliu**</span>, Rongjun Shao, Yuan Qu, Chunxu Ding, Hengyu Lian, Siqi Wu, Jiamiao Yang
 
 [Motion-induced phase shift for dynamic structured light measurement](peer review)
 
-Li Kang, <span style="color: #9400D3;">**Huazhenliu**</span></a>, Yijia Zhang, Jiamiao Yang, Hsiang-Chen Chui
+Li Kang, <span style="color: #9400D3;">**Huazhenliu**</span>, Yijia Zhang, Jiamiao Yang, Hsiang-Chen Chui
 
 [High frame-rate reconfigurable diffractive neural network based on superpixels](peer review)
 
-Yuan Qu, Hengyu Lian, Chunxu Ding, <span style="color: #9400D3;">**Huazhenliu**</span></a>, Linxian Liu, Jiamiao Yang
+Yuan Qu, Hengyu Lian, Chunxu Ding, <span style="color: #9400D3;">**Huazhenliu**</span>, Linxian Liu, Jiamiao Yang
 
 [Large field of view Shack-Hartmann wavefront sensor based on high-density lens transfer function retrieval](peer review)
 
-Siqi Wu, Qiaozhi He, Jichong Zhou, Shuxin Liu, <span style="color: #9400D3;">**Huazhenliu**</span></a>, Jiamiao Yang
+Siqi Wu, Qiaozhi He, Jichong Zhou, Shuxin Liu, <span style="color: #9400D3;">**Huazhenliu**</span>, Jiamiao Yang
 
 [PreCM: The Padding-based Rotation Equivariant Convolution Mode for Semantic Segmentation](peer review)
 
-Xinyu Xu, <span style="color: #9400D3;">**Huazhenliu**</span></a>, Tao Zhang,Huilin Xiong,Wenxian Yu
+Xinyu Xu, <span style="color: #9400D3;">**Huazhenliu**</span>, Tao Zhang,Huilin Xiong,Wenxian Yu
 
 [Rotation Perturbation Robustness in Point Cloud Analysis: A Perspective of Manifold Distillation](peer review)
 
-Xinyu Xu, <span style="color: #9400D3;">**Huazhenliu**</span></a>, Tao Zhang, Feiming Wei, Huilin Xiong, Wenxian Yu
+Xinyu Xu, <span style="color: #9400D3;">**Huazhenliu**</span>, Tao Zhang, Feiming Wei, Huilin Xiong, Wenxian Yu
 
 
 
