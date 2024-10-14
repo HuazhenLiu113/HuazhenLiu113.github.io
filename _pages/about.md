@@ -29,7 +29,7 @@ My research interest includes computer vision, medical imaging, optical imaging 
 
 # 📝 Publications 
 [High-Accuracy Phase Unwrapping Based on Binarized Wrap Count]
-**Huazhenliu**, Rongjun Shao, Yuan Qu, Chunxu Ding, Hengyu Lian, Siqi Wu, Jiamiao Yang
+**Huazhenliu**<span style="color: #9400D3;">, Rongjun Shao, Yuan Qu, Chunxu Ding, Hengyu Lian, Siqi Wu, Jiamiao Yang
 
 [Motion-induced phase shift for dynamic structured light measurement]
 Li Kang, **Huazhenliu**, Yijia Zhang, Jiamiao Yang, Hsiang-Chen Chui
