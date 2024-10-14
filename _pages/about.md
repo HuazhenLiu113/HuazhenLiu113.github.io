@@ -25,8 +25,6 @@ My research interest includes computer vision, medical imaging, optical imaging 
 - *2023.11*: &nbsp;🎉🎉 Recieveing first-class academic scholarship from Shanghai Jiao Tong University. 
 - *2022.09*: &nbsp;🎉🎉 Admitted by the Master program of Shanghai Jiao Tong University.
 
-  《PreCM: The Padding-based Rotation Equivariant Convolution Mode for Semantic Segmentation》一文已提交至中科院一区的重要期刊《IEEE Transactions on Image Processing》进行审阅，这是我对语义分割领域贡献的一份尝试。同时，《Rotation Perturbation Robustness in Point Cloud Analysis: A Perspective of Manifold Distillation》一文也向《IEEE Transactions on Circuits and Systems for Video Technology》投出了我的思考，期待能为点云分析领域带来一些新的视角。此外，我还在《IEEE Geoscience and Remote Sensing Letters》上发表了《An Information Expanding Network for Water Body Extraction based on U-net》，并在IGARSS会议上分享了《Flood Change Detection Based on Prior Feature Estimation》
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Express 2024</div><img src='images/PUB.png' alt="sym" width="100%"></div></div>
@@ -67,6 +65,9 @@ Li Kang, <span style="color: #9400D3;">**Huazhen Liu**</span>, Yijia Zhang, Jiam
 Yuan Qu, Hengyu Lian, Chunxu Ding, <span style="color: #9400D3;">**Huazhen Liu**</span>, Linxian Liu, Jiamiao Yang*
 
 *Optics Letters*, Published [DOI](https://doi.org/10.1364/ol.498712)
+- Diffractive Neural Network
+- Digit classification
+- Real-time optical information processing
 
 </div>
 </div>
@@ -79,6 +80,9 @@ Yuan Qu, Hengyu Lian, Chunxu Ding, <span style="color: #9400D3;">**Huazhen Liu**
 Siqi Wu, Qiaozhi He, Jichong Zhou, Shuxin Liu, <span style="color: #9400D3;">**Huazhen Liu**</span>, Jiamiao Yang*
 
 *Optics Letters*, in Peer Review
+- Shack-Hartmann Wavefront Sensor
+- Lens Distortion Isolation
+- Field-of-view Expansion 
 
 </div>
 </div>
@@ -91,6 +95,9 @@ Siqi Wu, Qiaozhi He, Jichong Zhou, Shuxin Liu, <span style="color: #9400D3;">**H
 Xinyu Xu, <span style="color: #9400D3;">**Huazhen Liu**</span>, Tao Zhang*, Huilin Xiong, Wenxian Yu
 
 *IEEE Transactions on Image Processing*, in Peer Review
+
+- Rotation Equivariance in Neural Network
+- Group Theory for Describing Neural Network
 
 </div>
 </div>
@@ -105,6 +112,9 @@ Xinyu Xu, <span style="color: #9400D3;">**Huazhen Liu**</span>, Tao Zhang*, Feim
 
 *IEEE Transactions on Circuits and Systems for Video Technology*, in Peer Review
 
+- Online Distillation 
+- Anti-vibration
+
 </div>
 </div>
 
@@ -117,6 +127,8 @@ Xinyu Xu, Tao Zhang，<span style="color: #9400D3;">**Huazhen Liu**</span>，Wei
 
 *IEEE Geoscience and Remote Sensing Letters*, Published [DOI](https://doi.org/10.1109/lgrs.2024.3371485)
 
+- Water Body Extraction
+- Ensemble BatchNorm
 </div>
 </div>
 
@@ -126,6 +138,9 @@ Xinyu Xu, Tao Zhang，<span style="color: #9400D3;">**Huazhen Liu**</span>，Wei
 [Water Body Detection Based On An Improved U-Net](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#rotation-perturbation-robustness-in-point-cloud-analysis-a-perspective-of-manifold-distillation)
 
 Xinyu Xu†, <span style="color: #9400D3;">**Huazhen Liu†**</span>, Tao Zhang*, Zenghui Zhang, Weiwei Guo
+
+- Water Body Extraction
+- Rotation Equivarience
 
 *IEEE International Geoscience and Remote Sensing Symposium*, Published [DOI](https://doi.org/10.1109/igarss52108.2023.10282863)
 
@@ -139,6 +154,9 @@ Xinyu Xu†, <span style="color: #9400D3;">**Huazhen Liu†**</span>, Tao Zhang*
 
 J. Bao, X. Zhang, S. Xiang, <span style="color: #9400D3;">**H. Liu**</span>, M. Cheng, Y. Yang, X. Huang, W. Xiang, W. Cui, H.C. Lai, S. Huang*, Y. Wang*, D. Qian*, and H. Yu*
 
+- Facial and Skeletal Transformations
+- Facial Prediction
+
 *Journal of Dental Research*, Published [DOI](https://doi.org/10.1177/00220345241253186)
 
 </div>
@@ -151,22 +169,22 @@ J. Bao, X. Zhang, S. Xiang, <span style="color: #9400D3;">**H. Liu**</span>, M. 
 
 J. Bao, X. Zhang, S. Xiang, <span style="color: #9400D3;">**H. Liu**</span>, M. Cheng, Y. Yang, X. Huang, W. Xiang, W. Cui, H.C. Lai, S. Huang*, Y. Wang*, D. Qian*, and H. Yu*
 
+- Cranial bone segmentation
+- Fine tooth segmentation
+- Ensemble Learning
+
 *International Journal of Surgery*, in Peer Review
 </div>
 </div>
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.11*: Shanghai Jiao Tong University first-class academic scholarship. 
+- *2022.3* Tianjin University "Outstanding Student" Award.
+- *2020.10* Tianjin University "Three Good Student" Award.
+- *2019.10* Tianjin Municipal Government Scholarship. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - now*, Master degree,  Shanghai Jiao Tong University.
+- *2018.09 - 2022.07*, Bachelor degree, Tian Jin University.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
