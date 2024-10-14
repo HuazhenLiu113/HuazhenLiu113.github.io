@@ -62,7 +62,7 @@ Li Kang, <span style="color: #9400D3;">**Huazhen Liu**</span>, Yijia Zhang, Jiam
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters 2023</div><img src='images/DNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[High frame-rate reconfigurable diffractive neural network based on superpixels](Abstract.md#high-frame-rate-reconfigurable-diffractive-neural-network-based-on-superpixels)
+[High frame-rate reconfigurable diffractive neural network based on superpixels](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#high-frame-rate-reconfigurable-diffractive-neural-network-based-on-superpixels)
 
 Yuan Qu, Hengyu Lian, Chunxu Ding, <span style="color: #9400D3;">**Huazhen Liu**</span>, Linxian Liu, Jiamiao Yang*
 
@@ -74,7 +74,7 @@ Yuan Qu, Hengyu Lian, Chunxu Ding, <span style="color: #9400D3;">**Huazhen Liu**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters 2024</div><img src='images/SHSENSOR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Large field of view Shack-Hartmann wavefront sensor based on high-density lens transfer function retrieval](Abstract.md#large-field-of-view-shack-hartmann-wavefront-sensor-based-on-high-density-lens-transfer-function-retrieval)
+[Large field of view Shack-Hartmann wavefront sensor based on high-density lens transfer function retrieval](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#large-field-of-view-shack-hartmann-wavefront-sensor-based-on-high-density-lens-transfer-function-retrieval)
 
 Siqi Wu, Qiaozhi He, Jichong Zhou, Shuxin Liu, <span style="color: #9400D3;">**Huazhen Liu**</span>, Jiamiao Yang*
 
@@ -115,7 +115,7 @@ Xinyu Xu, <span style="color: #9400D3;">**Huazhen Liu**</span>, Tao Zhang*, Feim
 
 Xinyu Xu, Tao Zhang，<span style="color: #9400D3;">**Huazhen Liu**</span>，Weiwei Guo, Zenghui Zhang
 
-*IEEE Geoscience and Remote Sensing Letters*, Published [DOI]([https://doi.org/10.1109/igarss52108.2023.10282863](https://doi.org/10.1109/lgrs.2024.3371485 ))
+*IEEE Geoscience and Remote Sensing Letters*, Published [DOI]([https://doi.org/10.1109/igarss52108.2023.10282863](https://doi.org/10.1109/lgrs.2024.3371485))
 
 </div>
 </div>
@@ -128,6 +128,18 @@ Xinyu Xu, Tao Zhang，<span style="color: #9400D3;">**Huazhen Liu**</span>，Wei
 Xinyu Xu†, <span style="color: #9400D3;">**Huazhen Liu†**</span>, Tao Zhang, Zenghui Zhang, Weiwei Guo
 
 *IEEE International Geoscience and Remote Sensing Symposium*, Published [DOI](https://doi.org/10.1109/igarss52108.2023.10282863)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Dental Research 2024</div><img src='images/SURFACEPRE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Deep Learning–Based Facial and Skeletal Transformations for Surgical Planning](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#deep-learningbased-facial-and-skeletal-transformations-for-surgical-planning)
+
+J. Bao, X. Zhang, S. Xiang, <span style="color: #9400D3;">**H. Liu**</span>, M. Cheng, Y. Yang, X. Huang, W. Xiang, W. Cui, H.C. Lai, S. Huang, Y. Wang, D. Qian, and H. Yu
+
+*Journal of Dental Research*, Published [DOI](https://doi.org/10.1177/00220345241253186)
 
 </div>
 </div>
