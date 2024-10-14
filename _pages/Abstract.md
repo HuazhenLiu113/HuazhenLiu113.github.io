@@ -40,7 +40,7 @@ mm for facial prediction and 0.906 ± 0.082 mm for skeletal prediction. To concl
 on the subject-specific prediction of facial and skeletal shapes and showed clinical application potential in postoperative facial prediction
 and VSP for orthognathic surgery.
 
-# International Journal of Surgery Development and validation of a novel deep ensemble learning-based fully automatic multi-structure segmentation framework for craniomaxillofacial surgery
+# Development and validation of a novel deep ensemble learning-based fully automatic multi-structure segmentation framework for craniomaxillofacial surgery
 **Background**
 Efficient and accurate segmentation of craniomaxillofacial (CMF) structures and individual teeth is a prerequisite and basis for advancing computer-assisted CMF
 surgery. This study aimed to comprehensively benchmark the performance of three 3D U-Net-based deep learning models and develop a novel deep ensemble learningbased
