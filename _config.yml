@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Huazhen Liu"
-description              : "Huazhen Liu"
-repository               : "HuazhenLiu113/HuazhenLiu113.github.io"
-google_scholar_stats_use_cdn : true
+title                    : "Hengyu Lian"
+description              : "Carpe Diem"
+repository               : "Lianhy000/Lianhy000.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Huazhen Liu"
-  avatar           : "images/me1.png"
-  bio              : "huazhenliu@sjtu.edu.cn""liuliouville@gmail.com"
-  location         : "Shanghai, China"
+  name             : "Hengyu Lian"
+  avatar           : "images/LHY_pic.png"
+  bio              : "PhD Student @ UNC CS"
+  location         : "North Carolina, USA"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            : "huazhenliu@sjtu.edu.cn""liuliouville@gmail.com"
+  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email            : "lianhy0@cs.unc.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
