@@ -125,7 +125,7 @@ Xinyu Xu, Tao Zhang，<span style="color: #9400D3;">**Huazhen Liu**</span>，Wei
   
 [Water Body Detection Based On An Improved U-Net](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#rotation-perturbation-robustness-in-point-cloud-analysis-a-perspective-of-manifold-distillation)
 
-Xinyu Xu†, <span style="color: #9400D3;">**Huazhen Liu†**</span>, Tao Zhang, Zenghui Zhang, Weiwei Guo
+Xinyu Xu†, <span style="color: #9400D3;">**Huazhen Liu†**</span>, Tao Zhang*, Zenghui Zhang, Weiwei Guo
 
 *IEEE International Geoscience and Remote Sensing Symposium*, Published [DOI](https://doi.org/10.1109/igarss52108.2023.10282863)
 
@@ -137,7 +137,7 @@ Xinyu Xu†, <span style="color: #9400D3;">**Huazhen Liu†**</span>, Tao Zhang,
   
 [Deep Learning–Based Facial and Skeletal Transformations for Surgical Planning](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#deep-learningbased-facial-and-skeletal-transformations-for-surgical-planning)
 
-J. Bao, X. Zhang, S. Xiang, <span style="color: #9400D3;">**H. Liu**</span>, M. Cheng, Y. Yang, X. Huang, W. Xiang, W. Cui, H.C. Lai, S. Huang, Y. Wang, D. Qian, and H. Yu
+J. Bao, X. Zhang, S. Xiang, <span style="color: #9400D3;">**H. Liu**</span>, M. Cheng, Y. Yang, X. Huang, W. Xiang, W. Cui, H.C. Lai, S. Huang*, Y. Wang*, D. Qian*, and H. Yu*
 
 *Journal of Dental Research*, Published [DOI](https://doi.org/10.1177/00220345241253186)
 
