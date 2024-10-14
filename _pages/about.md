@@ -108,6 +108,30 @@ Xinyu Xu, <span style="color: #9400D3;">**Huazhen Liu**</span>, Tao Zhang*, Feim
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Geoscience and Remote Sensing Letters 2023</div><img src='images/INFORMATION.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[An Information-Expanding Network for Water Body Extraction Based on U-Net](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#rotation-perturbation-robustness-in-point-cloud-analysis-a-perspective-of-manifold-distillation)
+
+Xinyu Xu, Tao Zhang，<span style="color: #9400D3;">**Huazhen Liu**</span>，Weiwei Guo, Zenghui Zhang
+
+*IEEE Geoscience and Remote Sensing Letters*, Published [DOI]([https://doi.org/10.1109/igarss52108.2023.10282863](https://doi.org/10.1109/lgrs.2024.3371485 ))
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE International Geoscience and Remote Sensing Symposium 2023</div><img src='images/WATERDETECTION.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Water Body Detection Based On An Improved U-Net](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#rotation-perturbation-robustness-in-point-cloud-analysis-a-perspective-of-manifold-distillation)
+
+Xinyu Xu†, <span style="color: #9400D3;">**Huazhen Liu†**</span>, Tao Zhang, Zenghui Zhang, Weiwei Guo
+
+*IEEE International Geoscience and Remote Sensing Symposium*, Published [DOI](https://doi.org/10.1109/igarss52108.2023.10282863)
+
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
