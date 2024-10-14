@@ -86,7 +86,7 @@ Siqi Wu, Qiaozhi He, Jichong Zhou, Shuxin Liu, <span style="color: #9400D3;">**H
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Image Processing 2024</div><img src='images/SHSENSOR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PreCM: The Padding-based Rotation Equivariant Convolution Mode for Semantic Segmentation](peer review)
+[PreCM: The Padding-based Rotation Equivariant Convolution Mode for Semantic Segmentation](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#precm-the-padding-based-rotation-equivariant-convolution-mode-for-semantic-segmentation)
 
 Xinyu Xu, <span style="color: #9400D3;">**Huazhen Liu**</span>, Tao Zhang*, Huilin Xiong, Wenxian Yu
 
@@ -95,10 +95,18 @@ Xinyu Xu, <span style="color: #9400D3;">**Huazhen Liu**</span>, Tao Zhang*, Huil
 </div>
 </div>
 
-[Rotation Perturbation Robustness in Point Cloud Analysis: A Perspective of Manifold Distillation](peer review)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Circuits and Systems for Video Technology 2024</div><img src='images/DISTILLATION.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Rotation Perturbation Robustness in Point Cloud Analysis: A Perspective of Manifold Distillation](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#rotation-perturbation-robustness-in-point-cloud-analysis-a-perspective-of-manifold-distillation)
 
 Xinyu Xu, <span style="color: #9400D3;">**Huazhen Liu**</span>, Tao Zhang*, Feiming Wei, Huilin Xiong, Wenxian Yu
 
+*IEEE Transactions on Circuits and Systems for Video Technology*, in Peer Review
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
