@@ -43,10 +43,11 @@ My research interest includes computer vision, medical imaging, optical imaging 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Express</div><img src='images/MIPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Motion-induced phase shift for dynamic structured light measurement](peer review)
+[Motion-induced phase shift for dynamic structured light measurement]
 
 Li Kang, <span style="color: #9400D3;">**Huazhen Liu**</span>, Yijia Zhang, Jiamiao Yang, Hsiang-Chen Chui
 
+*Optics Letters*, in Peer Review
 </div>
 </div>
 
