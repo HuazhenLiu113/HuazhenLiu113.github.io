@@ -29,16 +29,25 @@ My research interest includes computer vision, medical imaging, optical imaging 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Express</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">*Optics Express*</div><img src='images/PUB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [High-Accuracy Phase Unwrapping Based on Binarized Wrap Count](peer review)
 
 <span style="color: #9400D3;">**Huazhenliu**</span>, Rongjun Shao, Yuan Qu, Chunxu Ding, Hengyu Lian, Siqi Wu, Jiamiao Yang
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Express</div><img src='images/PUB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [Motion-induced phase shift for dynamic structured light measurement](peer review)
 
 Li Kang, <span style="color: #9400D3;">**Huazhenliu**</span>, Yijia Zhang, Jiamiao Yang, Hsiang-Chen Chui
+
+</div>
+</div>
 
 [High frame-rate reconfigurable diffractive neural network based on superpixels](peer review)
 
