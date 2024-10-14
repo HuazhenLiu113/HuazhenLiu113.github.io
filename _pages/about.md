@@ -40,7 +40,7 @@ My research interest includes computer vision, medical imaging, optical imaging 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Express</div><img src='images/PUB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Express</div><img src='images/MIPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Motion-induced phase shift for dynamic structured light measurement](peer review)
