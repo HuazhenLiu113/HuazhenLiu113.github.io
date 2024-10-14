@@ -29,7 +29,7 @@ My research interest includes computer vision, medical imaging, optical imaging 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Express</div><img src='images/PUB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Express 2024</div><img src='images/PUB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [High-Accuracy Phase Unwrapping Based on Binarized Wrap Count](Abstract.md#high-accuracy-phase-unwrapping-based-on-binarized-wrap-count)
@@ -43,10 +43,10 @@ My research interest includes computer vision, medical imaging, optical imaging 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters</div><img src='images/MIPS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters 2024</div><img src='images/MIPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Motion-induced phase shift for dynamic structured light measurement]
+[Motion-induced phase shift for dynamic structured light measurement](Abstract.md#motion-induced-phase-shift-for-dynamic-structured-light-measurement)
 
 Li Kang, <span style="color: #9400D3;">**Huazhen Liu**</span>, Yijia Zhang, Jiamiao Yang*, Hsiang-Chen Chui*
 
@@ -59,9 +59,17 @@ Li Kang, <span style="color: #9400D3;">**Huazhen Liu**</span>, Yijia Zhang, Jiam
 </div>
 </div>
 
-[High frame-rate reconfigurable diffractive neural network based on superpixels](peer review)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters</div><img src='images/MIPS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[High frame-rate reconfigurable diffractive neural network based on superpixels](Abstract.md#high-frame-rate-reconfigurable-diffractive-neural-network-based-on-superpixels)
 
 Yuan Qu, Hengyu Lian, Chunxu Ding, <span style="color: #9400D3;">**Huazhen Liu**</span>, Linxian Liu, Jiamiao Yang*
+
+*Optics Letters*, Published [DOI](https://doi.org/10.1364/ol.498712)
+
+</div>
+</div>
 
 [Large field of view Shack-Hartmann wavefront sensor based on high-density lens transfer function retrieval](peer review)
 
