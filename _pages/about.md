@@ -28,10 +28,20 @@ My research interest includes computer vision, medical imaging, optical imaging 
   《PreCM: The Padding-based Rotation Equivariant Convolution Mode for Semantic Segmentation》一文已提交至中科院一区的重要期刊《IEEE Transactions on Image Processing》进行审阅，这是我对语义分割领域贡献的一份尝试。同时，《Rotation Perturbation Robustness in Point Cloud Analysis: A Perspective of Manifold Distillation》一文也向《IEEE Transactions on Circuits and Systems for Video Technology》投出了我的思考，期待能为点云分析领域带来一些新的视角。此外，我还在《IEEE Geoscience and Remote Sensing Letters》上发表了《An Information Expanding Network for Water Body Extraction based on U-net》，并在IGARSS会议上分享了《Flood Change Detection Based on Prior Feature Estimation》
 
 # 📝 Publications 
+[High-Accuracy Phase Unwrapping Based on Binarized Wrap Count]
+**Huazhenliu**, Rongjun Shao, Yuan Qu, Chunxu Ding, Hengyu Lian, Siqi Wu, Jiamiao Yang
+
+[Motion-induced phase shift for dynamic structured light measurement]
+Li Kang, **Huazhenliu**, Yijia Zhang, Jiamiao Yang, Hsiang-Chen Chui
+
+[High frame-rate reconfigurable diffractive neural network based on superpixels]
+Yuan Qu, Hengyu Lian, Chunxu Ding, **Huazhenliu**, Linxian Liu, Jiamiao Yang
+
+[Large field of view Shack-Hartmann wavefront sensor based on high-density lens transfer function retrieval]
+Siqi Wu, Qiaozhi He, Jichong Zhou, Shuxin Liu, **Huazhenliu**, Jiamiao Yang
 
 [PreCM: The Padding-based Rotation Equivariant Convolution Mode for Semantic Segmentation]
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Xinyu Xu, Huazhen Liu, Tao Zhang
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
