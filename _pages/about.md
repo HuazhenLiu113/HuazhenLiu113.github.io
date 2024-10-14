@@ -17,15 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a third year Master student at Shanghai Jiao Tong University, advised by associate professor <a href="https://juopt.sjtu.edu.cn/index.htm"><span style="color: #9400D3;"></span></a>. I'm pursuing my Master degree majoring in School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University at <a href="https://www.sjtu.edu.cn"><span style="color: #9400D3;">Shanghai Jiao Tong University(SJTU)</span></a>, where I worked with professor <a href="https://ssse.sjtu.edu.cn/Data/Info/413"><span style="color: #9400D3;">Yuan Qu</span></a> and professor <a href="https://ssse.sjtu.edu.cn/Data/Info/474"><span style="color: #9400D3;">Jiamiao Yang</span></a> in <a href="https://juopt.sjtu.edu.cn/"><span style="color: #9400D3;">IPSI</span></a>. Before that, I've obtained the Bachelor's degree in Electronic Engineering from <a href="https://www.tju.edu.cn/"><span style="color: #9400D3;">Tianjin University</span></a>.
-My research interest includes computer vision,, machine learning, optical imaging and measurment.
+Nowadays, I'm pursuing my Master degree majoring in School of Electronic Information and Electrical Engineering, at <a href="https://www.sjtu.edu.cn"><span style="color: #9400D3;">Shanghai Jiao Tong University(SJTU)</span></a>, where I worked with professor <a href="https://ssse.sjtu.edu.cn/Data/Info/413"><span style="color: #9400D3;">Jiamiao Yang</span></a> and professor <a href="https://ssse.sjtu.edu.cn/Data/Info/474"><span style="color: #9400D3;">Jiamiao Yang</span></a> in <a href="https://juopt.sjtu.edu.cn/"><span style="color: #9400D3;">IPSI</span></a>. Before that, I've obtained the Bachelor's degree in Electronic Engineering from <a href="https://www.tju.edu.cn/"><span style="color: #9400D3;">Tianjin University</span></a>.
+My research interest includes computer vision, medical imaging, optical imaging and measurment. I have relevant research experience in areas such as fast optical imaging, multi-view imaging, neural network-based degeneration studies, SAR change detection and postoperative mandibular bone morphology prediction. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.11*: &nbsp;🎉🎉 Recieveing first-class academic scholarship from Shanghai Jiao Tong University. 
+- *2022.09*: &nbsp;🎉🎉 Admitted by the Master program of Shanghai Jiao Tong University.
+
+  《PreCM: The Padding-based Rotation Equivariant Convolution Mode for Semantic Segmentation》一文已提交至中科院一区的重要期刊《IEEE Transactions on Image Processing》进行审阅，这是我对语义分割领域贡献的一份尝试。同时，《Rotation Perturbation Robustness in Point Cloud Analysis: A Perspective of Manifold Distillation》一文也向《IEEE Transactions on Circuits and Systems for Video Technology》投出了我的思考，期待能为点云分析领域带来一些新的视角。此外，我还在《IEEE Geoscience and Remote Sensing Letters》上发表了《An Information Expanding Network for Water Body Extraction based on U-net》，并在IGARSS会议上分享了《Flood Change Detection Based on Prior Feature Estimation》
 
 # 📝 Publications 
+
+[PreCM: The Padding-based Rotation Equivariant Convolution Mode for Semantic Segmentation]
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
