@@ -83,9 +83,17 @@ Siqi Wu, Qiaozhi He, Jichong Zhou, Shuxin Liu, <span style="color: #9400D3;">**H
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Image Processing 2024</div><img src='images/SHSENSOR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [PreCM: The Padding-based Rotation Equivariant Convolution Mode for Semantic Segmentation](peer review)
 
 Xinyu Xu, <span style="color: #9400D3;">**Huazhen Liu**</span>, Tao Zhang*, Huilin Xiong, Wenxian Yu
+
+*IEEE Transactions on Image Processing*, in Peer Review
+
+</div>
+</div>
 
 [Rotation Perturbation Robustness in Point Cloud Analysis: A Perspective of Manifold Distillation](peer review)
 
