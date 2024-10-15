@@ -171,7 +171,7 @@ J. Bao, X. Zhang, S. Xiang, <span style="color: #9400D3;">**H. Liu**</span>, M. 
   
 [Development and validation of a novel deep ensemble learning-based fully automatic multi-structure segmentation framework for craniomaxillofacial surgery](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#development-and-validation-of-a-novel-deep-ensemble-learning-based-fully-automatic-multi-structure-segmentation-framework-for-craniomaxillofacial-surgery)
 
-J. Bao, X. Zhang, S. Xiang, <span style="color: #9400D3;">**H. Liu**</span>, M. Cheng, Y. Yang, X. Huang, W. Xiang, W. Cui, H.C. Lai, S. Huang*, Y. Wang*, D. Qian*, and H. Yu*
+Jiahao Bao, Zongcai Tan, Yifeng Sun, Xinyu Xu, <span style="color: #9400D3;">**Huazhen Liu**</span>, Weiyi Cui, Yang Yang, Mengjia Cheng, Yiming Wang, Congshuang Ku, Yuen Ka Ho, Jiayi Zhu, Linfeng Fan, Dahong Qian, Shunyao Shen, Yaofeng Wen, Hongbo Yu*
 
 - Cranial bone segmentation
 - Fine tooth segmentation
