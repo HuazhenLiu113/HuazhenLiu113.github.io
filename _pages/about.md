@@ -126,7 +126,7 @@ Yuan Qu, Hengyu Lian, Chunxu Ding, <span style="color: #9400D3;">**Huazhen Liu**
   
 [An Information-Expanding Network for Water Body Extraction Based on U-Net](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#an-information-expanding-network-for-water-body-extraction-based-on-u-net-1)
 
-Xinyu Xu, Tao Zhang，<span style="color: #9400D3;">**Huazhen Liu**</span>，Weiwei Guo, Zenghui Zhang
+Xinyu Xu, Tao Zhang*，<span style="color: #9400D3;">**Huazhen Liu**</span>，Weiwei Guo, Zenghui Zhang
 
 - Water Body Extraction
 - Ensemble BatchNorm
