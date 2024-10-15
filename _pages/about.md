@@ -30,7 +30,7 @@ My research interest includes computer vision, medical imaging, optical imaging 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Express 2024</div><img src='images/PUB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[High-Accuracy Phase Unwrapping Based on Binarized Wrap Count](Abstract.md#high-accuracy-phase-unwrapping-based-on-binarized-wrap-count)
+[High-Accuracy Phase Unwrapping Based on Binarized Wrap Count](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#high-accuracy-phase-unwrapping-based-on-binarized-wrap-count)
 
 <span style="color: #9400D3;">**Huazhen Liu**</span>, Rongjun Shao, Yuan Qu, Chunxu Ding, Hengyu Lian, Siqi Wu, Jiamiao Yang*
 *Optics Express*, in Peer Review
@@ -44,7 +44,7 @@ My research interest includes computer vision, medical imaging, optical imaging 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters 2024</div><img src='images/MIPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Motion-induced phase shift for dynamic structured light measurement](Abstract.md#motion-induced-phase-shift-for-dynamic-structured-light-measurement)
+[Motion-induced phase shift for dynamic structured light measurement](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#motion-induced-phase-shift-for-dynamic-structured-light-measurement)
 
 Li Kang, <span style="color: #9400D3;">**Huazhen Liu**</span>, Yijia Zhang, Jiamiao Yang*, Hsiang-Chen Chui*
 
