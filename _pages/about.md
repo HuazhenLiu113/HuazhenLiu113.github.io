@@ -139,7 +139,7 @@ Xinyu Xu, Tao Zhang，<span style="color: #9400D3;">**Huazhen Liu**</span>，Wei
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE International Geoscience and Remote Sensing Symposium 2023</div><img src='images/WATERDETECTION.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Water Body Detection Based On An Improved U-Net](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#rotation-perturbation-robustness-in-point-cloud-analysis-a-perspective-of-manifold-distillation)
+[Water Body Detection Based On An Improved U-Net](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#water-body-detection-based-on-an-improved-u-net-1)
 
 Xinyu Xu†, <span style="color: #9400D3;">**Huazhen Liu†**</span>, Tao Zhang*, Zenghui Zhang, Weiwei Guo
 
