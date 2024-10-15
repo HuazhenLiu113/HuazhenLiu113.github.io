@@ -33,10 +33,11 @@ My research interest includes computer vision, medical imaging, optical imaging 
 [High-Accuracy Phase Unwrapping Based on Binarized Wrap Count](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#high-accuracy-phase-unwrapping-based-on-binarized-wrap-count)
 
 <span style="color: #9400D3;">**Huazhen Liu**</span>, Rongjun Shao, Yuan Qu, Chunxu Ding, Hengyu Lian, Siqi Wu, Jiamiao Yang*
-*Optics Express*, in Peer Review
 
 - Spatial Phase Unwrapping
 - Structured Light Imaging
+
+*Optics Express*, in Peer Review
 
 </div>
 </div>
