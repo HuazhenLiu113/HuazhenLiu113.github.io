@@ -185,7 +185,7 @@ J. Bao, X. Zhang, S. Xiang, <span style="color: #9400D3;">**H. Liu**</span>, M. 
 # 🎖 Honors and Awards
 - *2023.11*: Shanghai Jiao Tong University first-class academic scholarship. 
 - *2022.3* Tianjin University "Outstanding Student" Award.
-- *2020.10* Tianjin University "Three Good Student" Award.
+- *2020.10* Tianjin University "Merit Student" Award.
 - *2019.10* Tianjin Municipal Government Scholarship. 
 
 # 📖 Educations
