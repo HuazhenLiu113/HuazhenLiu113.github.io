@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Nowadays, I'm pursuing my Master degree majoring in School of Electronic Information and Electrical Engineering, at <a href="https://www.sjtu.edu.cn"><span style="color: #9400D3;">Shanghai Jiao Tong University(SJTU)</span></a>, where I worked with professor <a href="https://ssse.sjtu.edu.cn/Data/Info/413"><span style="color: #9400D3;">Jiamiao Yang</span></a> in <a href="https://juopt.sjtu.edu.cn/"><span style="color: #9400D3;"> Intelligent Photoelectric Sensing Institute </span></a>. Before that, I've obtained the Bachelor's degree in Electronic Engineering from <a href="https://www.tju.edu.cn/"><span style="color: #9400D3;">Tianjin University</span></a>.
-My research interest includes computer vision, medical imaging, optical imaging and measurment. I have relevant research experience in areas such as fast optical imaging, multi-view imaging, neural network-based degeneration studies, SAR change detection and postoperative mandibular bone morphology prediction. 
+My research interest includes computer vision, medical imaging, optical imaging and measurment. I have relevant research experience in areas such as fast optical imaging, multi-view imaging, equivariant representation of neural networks, SAR change detection and postoperative mandibular bone morphology prediction. 
 
 
 # 🔥 News
@@ -53,22 +53,6 @@ Li Kang, <span style="color: #9400D3;">**Huazhen Liu**</span>, Yijia Zhang, Jiam
 - Eliminating Harmonic Influence
 
 *Optics Letters*, in Peer Review
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters 2023</div><img src='images/DNN.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[High frame-rate reconfigurable diffractive neural network based on superpixels](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#high-frame-rate-reconfigurable-diffractive-neural-network-based-on-superpixels)
-
-Yuan Qu, Hengyu Lian, Chunxu Ding, <span style="color: #9400D3;">**Huazhen Liu**</span>, Linxian Liu, Jiamiao Yang*
-
-- Diffractive Neural Network
-- Digit classification
-- Real-time optical information processing
-
-*Optics Letters*, Published [DOI](https://doi.org/10.1364/ol.498712)
 
 </div>
 </div>
@@ -116,6 +100,22 @@ Xinyu Xu, <span style="color: #9400D3;">**Huazhen Liu**</span>, Tao Zhang*, Feim
 - Anti-vibration
 
 *IEEE Transactions on Circuits and Systems for Video Technology*, in Peer Review
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters 2023</div><img src='images/DNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[High frame-rate reconfigurable diffractive neural network based on superpixels](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#high-frame-rate-reconfigurable-diffractive-neural-network-based-on-superpixels)
+
+Yuan Qu, Hengyu Lian, Chunxu Ding, <span style="color: #9400D3;">**Huazhen Liu**</span>, Linxian Liu, Jiamiao Yang*
+
+- Diffractive Neural Network
+- Digit classification
+- Real-time optical information processing
+
+*Optics Letters*, Published [DOI](https://doi.org/10.1364/ol.498712)
 
 </div>
 </div>
