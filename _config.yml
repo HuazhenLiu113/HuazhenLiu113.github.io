@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Huazhen Liu"
-description              : "Carpe Diem"
+description              : "huazhenliu@sjtu.edu.cn"
 repository               : "Lianhy000/Lianhy000.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "lianhy0@cs.unc.edu"
+  email            : "huazhenliu@sjtu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
