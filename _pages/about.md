@@ -22,7 +22,7 @@ My research interests include computational imaging, medical imaging, computer v
 
 
 # 🔥 News
-- *2023.11*: &nbsp;🎉🎉 Recieveing first-class academic scholarship from Shanghai Jiao Tong University. 
+- *2023.11*: &nbsp;🎉🎉 Receiveing first-class academic scholarship from Shanghai Jiao Tong University. 
 - *2022.09*: &nbsp;🎉🎉 Admitted by the Master program of Shanghai Jiao Tong University.
 
 # 📝 Publications 
