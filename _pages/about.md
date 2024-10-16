@@ -183,10 +183,14 @@ Jiahao Bao, Zongcai Tan, Yifeng Sun, Xinyu Xu, <span style="color: #9400D3;">**H
 
 
 # 🎖 Honors and Awards
-- *2023.11*: Shanghai Jiao Tong University first-class academic scholarship. 
-- *2022.3* Tianjin University "Outstanding Student" Award.
-- *2020.10* Tianjin University "Merit Student" Award.
-- *2019.10* Tianjin Municipal Government Scholarship. 
+- *2023.12*: The 1st Scholarship rewarded by Shanghai Jiao Tong University.
+- *2022.12*: The 1st Scholarship rewarded by Shanghai Jiao Tong University. 
+- *2022.03*: "Outstanding Student" of Tianjin University.
+- *2021.10*: "Merit Student" of Tianjin University.
+- *2021.05*: The Second Prize of China Undergraduate Mathematical Contest in Modeling.
+- *2020.12*: The First Prize of Chinese Mathematics Competitions.
+- *2019.12*: The First Prize of Chinese Mathematics Competitions.
+- *2019.09*: Tianjin Municipal Government Scholarship. 
 
 # 📖 Educations
 - *2022.09 - now*, Master degree,  Shanghai Jiao Tong University.
