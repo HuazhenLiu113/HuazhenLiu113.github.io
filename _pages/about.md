@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Nowadays, I'm pursuing my Master degree majoring in School of Electronic Information and Electrical Engineering, at <a href="https://www.sjtu.edu.cn"><span style="color: #9400D3;">Shanghai Jiao Tong University(SJTU)</span></a>, where I worked with professor <a href="https://ssse.sjtu.edu.cn/Data/Info/413"><span style="color: #9400D3;">Jiamiao Yang</span></a> in <a href="https://juopt.sjtu.edu.cn/"><span style="color: #9400D3;"> Intelligent Photoelectric Sensing Institute </span></a>. Before that, I've obtained the Bachelor's degree in Electronic Engineering from <a href="https://www.tju.edu.cn/"><span style="color: #9400D3;">Tianjin University</span></a>.
-My research interest includes computer vision, medical imaging, optical imaging and measurment. I have relevant research experience in areas such as fast optical imaging, multi-view imaging, equivariant representation of neural networks, SAR change detection and postoperative mandibular bone morphology prediction. 
+My research interests include computational imaging, medical imaging, computer vision and measurement. I have relevant research experience in areas such as fast optical imaging, multi-view imaging, equivariant representation of neural networks, SAR change detection and postoperative mandibular bone morphology prediction. 
 
 
 # 🔥 News
