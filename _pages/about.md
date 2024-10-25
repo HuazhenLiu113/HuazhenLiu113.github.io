@@ -53,7 +53,7 @@ Li Kang, <span style="color: #9400D3;">**Huazhen Liu**</span>, Yijia Zhang, Jiam
 - Structured Light Imaging
 - Eliminating Harmonic Influence
 
-*Optics Letters*, in Peer Review
+*Optics Letters*, Accepted [DOI](https://doi.org/10.1364/OL.541207)
 
 </div>
 </div>
