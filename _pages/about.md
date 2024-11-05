@@ -84,7 +84,7 @@ Xinyu Xu, <span style="color: #9400D3;">**Huazhen Liu**</span>, Tao Zhang*, Huil
 - Rotation Equivariance in Neural Network
 - Group Theory for Describing Neural Network
 
-*IEEE Transactions on Image Processing*, in Peer Review
+*IEEE Transactions on Image Processing*, in Peer Review [Arxiv](https://arxiv.org/abs/2411.01624)
 
 </div>
 </div>
@@ -100,7 +100,7 @@ Xinyu Xu, <span style="color: #9400D3;">**Huazhen Liu**</span>, Tao Zhang*, Feim
 - Online Distillation 
 - Anti-vibration
 
-*IEEE Transactions on Circuits and Systems for Video Technology*, in Peer Review
+*IEEE Transactions on Circuits and Systems for Video Technology*, in Peer Review [Arxiv](https://arxiv.org/abs/2411.01748)
 
 </div>
 </div>
