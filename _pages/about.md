@@ -37,7 +37,7 @@ My research interests include computational imaging, medical imaging, computer v
 - Spatial Phase Unwrapping
 - Structured Light Imaging
 
-*Optics Express*, in Peer Review
+*Optics Express*, Accepted
 
 </div>
 </div>
@@ -53,7 +53,7 @@ Li Kang, <span style="color: #9400D3;">**Huazhen Liu**</span>, Yijia Zhang, Jiam
 - Structured Light Imaging
 - Eliminating Harmonic Influence
 
-*Optics Letters*, Accepted [DOI](https://doi.org/10.1364/OL.541207)
+*Optics Letters*, Published [DOI](https://doi.org/10.1364/OL.541207)
 
 </div>
 </div>
