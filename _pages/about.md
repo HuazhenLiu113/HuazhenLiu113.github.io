@@ -37,7 +37,7 @@ My research interests include computational imaging, medical imaging, computer v
 - Spatial Phase Unwrapping
 - Structured Light Imaging
 
-*Optics Express*, Accepted
+*Optics Express*, Accepted [DOI](https://doi.org/10.1364/oe.544294)
 
 </div>
 </div>
