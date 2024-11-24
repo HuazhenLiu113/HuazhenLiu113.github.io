@@ -37,7 +37,7 @@ My research interests include computational imaging, medical imaging, computer v
 - Spatial Phase Unwrapping
 - Structured Light Imaging
 
-*Optics Express*, Accepted [DOI](https://doi.org/10.1364/oe.544294)
+*Optics Express*, Published [DOI](https://doi.org/10.1364/oe.544294)
 
 </div>
 </div>
@@ -69,7 +69,7 @@ Siqi Wu, Qiaozhi He, Jichong Zhou, Shuxin Liu, <span style="color: #9400D3;">**H
 - Lens Distortion Isolation
 - Field-of-view Expansion 
 
-*Optics Letters*, in Peer Review
+*Optics Letters*, Published [DOI](https://doi.org/10.1364/ol.543916)
 
 </div>
 </div>
