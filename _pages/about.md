@@ -42,7 +42,7 @@ My research interests include computational imaging, medical imaging, computer v
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters 2024</div><img src='images/UMSPU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Circuits and Systems for Video Technology 2024</div><img src='images/UMSPU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UMSPU: Universal Multi-Size Phase Unwrapping via Mutual Self-Distillation and Adaptive Boosting Ensemble Segmenters](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#umspu-universal-multi-size-phase-unwrapping-via-mutual-self-distillation-and-adaptive-boosting-ensemble-segmenters)
@@ -57,6 +57,7 @@ My research interests include computational imaging, medical imaging, computer v
 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters 2024</div><img src='images/MIPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
