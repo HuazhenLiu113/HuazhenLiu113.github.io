@@ -45,6 +45,22 @@ My research interests include computational imaging, medical imaging, computer v
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters 2024</div><img src='images/MIPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[UMSPU: Universal Multi-Size Phase Unwrapping via Mutual Self-Distillation and Adaptive Boosting Ensemble Segmenters](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#high-accuracy-phase-unwrapping-based-on-binarized-wrap-count)
+
+<span style="color: #9400D3;">**Huazhen Liu**</span>, Rongjun Shao, Yuan Qu, Chunxu Ding, Hengyu Lian, Siqi Wu, Jiamiao Yang*
+
+- Spatial Phase Unwrapping
+- Deep Learning
+- Real-time performance
+
+*IEEE Transactions on Circuits and Systems for Video Technology*, Submitted [DOI](https://doi.org/10.48550/arXiv.2412.05584)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters 2024</div><img src='images/MIPS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [Motion-induced phase shift for dynamic structured light measurement](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#motion-induced-phase-shift-for-dynamic-structured-light-measurement)
 
 Li Kang, <span style="color: #9400D3;">**Huazhen Liu**</span>, Yijia Zhang, Jiamiao Yang*, Hsiang-Chen Chui*
