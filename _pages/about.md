@@ -42,12 +42,12 @@ My research interests include computational imaging, medical imaging, computer v
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters 2024</div><img src='images/MIPS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters 2024</div><img src='images/UMSPU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[UMSPU: Universal Multi-Size Phase Unwrapping via Mutual Self-Distillation and Adaptive Boosting Ensemble Segmenters](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#high-accuracy-phase-unwrapping-based-on-binarized-wrap-count)
+[UMSPU: Universal Multi-Size Phase Unwrapping via Mutual Self-Distillation and Adaptive Boosting Ensemble Segmenters](https://github.com/HuazhenLiu113/HuazhenLiu113.github.io/blob/main/_pages/Abstract.md#umspu-universal-multi-size-phase-unwrapping-via-mutual-self-distillation-and-adaptive-boosting-ensemble-segmenters)
 
-<span style="color: #9400D3;">**Huazhen Liu**</span>, Rongjun Shao, Yuan Qu, Chunxu Ding, Hengyu Lian, Siqi Wu, Jiamiao Yang*
+<span style="color: #9400D3;">Litong Du, **Huazhen Liu**</span>, Yijia Zhang, ShuXin Liu, Yuan Qu, Zenghui Zhang, and Jiamiao Yang*
 
 - Spatial Phase Unwrapping
 - Deep Learning
